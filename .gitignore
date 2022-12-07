@@ -1,0 +1,13 @@
+# IDE files
+.idea/
+cmake-build-debug/
+build/
+gen/
+antlr-playground/.antlr
+other/
+CMakeFiles/
+Apple-Pie-Interpreter/
+testcases/
+
+# Testcases
+testcases/hidden-testcases
